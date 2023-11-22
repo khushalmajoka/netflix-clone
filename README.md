@@ -1,3 +1,6 @@
+<img width="946" alt="image" src="https://github.com/khushalmajoka/netflix-clone/assets/56840292/8646ddd6-0dbd-4a77-aa68-43d660937041">
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
